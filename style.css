@@ -8,9 +8,8 @@
 }
 
 body{
-    background-color: antiquewhite;
+    background-color: #4B52DB;
     width:100%;
-    height:640px;
 }
 /*header design*/
 
@@ -182,8 +181,6 @@ a{
 
     .gif-container{
         width: 100%;
-        height: 580px;
-        background-color: #4B52DB;
     
     }
 
