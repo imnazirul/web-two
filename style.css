@@ -173,7 +173,7 @@ a{
         background-image: url(websiteundercon.gif);
         padding:100px 0 200px 0;
         width: 100%;
-        height:400px;
+        height:300px;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -181,7 +181,7 @@ a{
 
     .gif-container{
         width: 100%;
-        height: 650px;
+        height: 700px;
         background-color: #4B52DB;
     
     }
@@ -191,7 +191,6 @@ a{
         color:#ffffff;
         font-family: 'Montserrat', sans-serif;
         text-align: center;
-        
         padding-top: 30px;
     }
     
